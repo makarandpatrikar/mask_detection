@@ -1,2 +1,2 @@
-# Mask_detection
+# Mask_Detection
 detect where the person wear a mask or not
